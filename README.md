@@ -3,7 +3,7 @@
 Avval quyidagi komanda bilan kerakli kutubxonani o'rnatib olamiz
 `pip install qrcode`
 
-[Natija](./youtube.png)
+(./youtube.png)
 
 qrcode kutubxonasi haqida [batafsil](https://pypi.org/project/qrcode/)
 
